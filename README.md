@@ -5,7 +5,7 @@ Ideas to be followed:-
 2. Language translation: we want to develop a speech to text capable translating basic languages spoken in India.
 3. Tool For hearing Impaired :  we want to add a one click feature for hearing impaired for text to speech transcription.
 4. Real time transcription for live event and subtitles for easy understating of indian languages.
-5. 
+5. All these above features under one nice representable website.
 
 
 
